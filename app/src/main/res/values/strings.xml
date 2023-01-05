@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Meu IMC</string>
+    <string name="nossa_historia">Nossa História</string>
+    <string name="botao_de_retorno_a_tela_inicial">Botão de retorno a tela inicial</string>
+    <string name="insira_sua_altura_metros">Insira sua altura (metros)</string>
+    <string name="insira_seu_peso_kg">Insira seu peso (Kg)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="bot_o_de_retorno_a_tela_inicial">Botão de retorno a tela inicial</string>
+    <string name="insira_os_dados_abaixo">Insira os dados abaixo:</string>
+    <string name="seu_imc">Seu IMC</string>
+    <string name="suporte_atrav_s_dos_canais_abaixo">Suporte através dos canais abaixo:</string>
+    <string name="telefone_9999_9999">Telefone: 9999-9999</string>
+    <string name="email_meuimc_suporteteste_com">Email: meuimc@suporteteste.com</string>
+    <string name="botaoDeRetorno_Home">Botão de retorno a tela inicial</string>
+    <string name="nossa_hist_ria">Nossa história</string>
+    <string name="imagem_do_aplicativo_na_tela_inicial">Imagem do aplicativo na tela inicial</string>
+    <string name="fale_conosco">Fale conosco</string>
+</resources>
